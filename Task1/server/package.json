@@ -1,0 +1,13 @@
+{
+    "name": "jpeg-dash-server",
+    "version": "1.0.0",
+    "description": "A server for serving JPEG Dash content",
+    "main": "server.js",
+    "scripts": {
+        "start": "nodemon server.js"
+    },
+    "dependencies": {
+        "express": "^4.19.2",
+        "nodemon": "^3.1.0"
+    }
+}

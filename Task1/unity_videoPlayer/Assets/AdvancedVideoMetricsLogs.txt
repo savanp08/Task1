@@ -1,0 +1,22 @@
+Time, Event, Additional Info
+
+Session Start
+0, Paused
+0.02, MetaDataReady
+0.02, First Frame Ready
+0.02, ResolutionChanged
+0.3533334, Started
+0.3533334, Unpaused
+3.092862, Playback Info, IsPlaying: True, Current Resolution: 256x144, Current Framerate: 22.73283, Current Frames duration:425,Playback Time: 3.072862
+6.113295, Playback Info, IsPlaying: True, Current Resolution: 256x144, Current Framerate: 7.611719, Current Frames duration:425,Playback Time: 6.093295
+9.157626, Playback Info, IsPlaying: True, Current Resolution: 256x144, Current Framerate: 13.80766, Current Frames duration:425,Playback Time: 9.137626
+10.84064, ResolutionChanged
+12.2403, Playback Info, IsPlaying: True, Current Resolution: 640x360, Current Framerate: 19.72274, Current Frames duration:425,Playback Time: 12.22029
+14.39618, StartedSeeking
+14.72952, FinishedSeeking
+15.24368, Playback Info, IsPlaying: True, Current Resolution: 640x360, Current Framerate: 5.664938, Current Frames duration:425,Playback Time: 15.22368
+18.29255, Playback Info, IsPlaying: True, Current Resolution: 640x360, Current Framerate: 20.51701, Current Frames duration:425,Playback Time: 18.27255
+21.34876, Playback Info, IsPlaying: True, Current Resolution: 640x360, Current Framerate: 13.91793, Current Frames duration:425,Playback Time: 21.32876
+21.50364, Paused
+21.50364, Closing
+Session End
